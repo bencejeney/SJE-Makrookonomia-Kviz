@@ -339,7 +339,7 @@ const qBank = [
 		id: 57,
 		question: "A súrlódásos munkanélküliség abból fakad, hogy",
 		options: ['a. a nominálbérek „ragadósak" (nem változnak), és így a munkapiaci egyensúlytalanság esetén nem tud gyorsan beállni az egyensúlyi reálbér', "b. a vállalati szféra munkavállalókkal szembeni elvárásai nem esnek egybe a munkanélküliek képzettségével, szaktudásával", "c. a munkanélküliek egy része hezitál, hogy az adott reálbér mellett megjelenjen-e a munkapiacon", "d. a keresés a munkanélküliek és az üres munkahellyel rendelkező munkaadók részéről egyaránt időt igényel"],
-		answer: "b. s.f(k) - (δ + n)k",
+		answer: "d. a keresés a munkanélküliek és az üres munkahellyel rendelkező munkaadók részéről egyaránt időt igényel",
 	},
 	{
 		id: 58,
