@@ -21,7 +21,7 @@ const fejezet5 = [
 		id: 4,
 		question: "Megváltozhat egy gazdaság munkakínálati függvénye, ha",
 		options: ["a. bevándorlás következtében nő az aktívak létszáma", "b. nő a reálbér", "c. nő a nominálbér", "d. nő az árszínvonal"],
-		answer: "c. az egy főre jutó fogyasztás szintje",
+		answer: "a. bevándorlás következtében nő az aktívak létszáma",
 	},
 	{
 		id: 5,
