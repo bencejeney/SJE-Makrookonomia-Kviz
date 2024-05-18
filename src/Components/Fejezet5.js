@@ -37,7 +37,7 @@ const fejezet5 = [
 	},
 	{
 		id: 7,
-		question: "Tegyük fel, hogy a pillanatnyilag érvényesülő árszinvonal és rögzített nominálbérek mellett a gazdaságban önkéntes és kényszerű munkanélküliség is létezik. Ebben az esetben az árszínvonal emelkedése",
+		question: "Tegyük fel, hogy a pillanatnyilag érvényesülő árszínvonal és rögzített nominálbérek mellett a gazdaságban önkéntes és kényszerű munkanélküliség is létezik. Ebben az esetben az árszínvonal emelkedése",
 		options: ["a. növeli a kényszerű munkanélküliséget és csökkenti az önkéntes jellegűt", "b. csökkenti a kényszerű munkanélküliséget és növeli az önkéntes jellegűt", "c. mindkét fajta munkanélküliséget növeli", "d. mindkét fata munkanélküliséget csökkenti"],
 		answer: "b. csökkenti a kényszerű munkanélküliséget és növeli az önkéntes jellegűt",
 	},
