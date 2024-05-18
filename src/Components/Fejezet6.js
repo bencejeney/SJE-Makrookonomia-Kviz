@@ -2,7 +2,7 @@ const fejezet6 = [
 	{
 		id: 1,
 		question: "A Fisher-hatás szerint az inflációs ráta emelkedése",
-		options: ["a. a nominális kamaláb csökkenéséhez és a reálkamatláb emelkedéséhez vezet", "b. a reál pénzmennyiség növekedését eredményezi", "c. a reálkamatláb csökkenésére vezet, miközben nem változik a nominális kamatláb", "d. a nominális kamatláb emelkedéséhez vezet, miközben nem változik a reálkamatláb"],
+		options: ["a. a nominális kamatláb csökkenéséhez és a reálkamatláb emelkedéséhez vezet", "b. a reál pénzmennyiség növekedését eredményezi", "c. a reálkamatláb csökkenésére vezet, miközben nem változik a nominális kamatláb", "d. a nominális kamatláb emelkedéséhez vezet, miközben nem változik a reálkamatláb"],
 		answer: "d. a nominális kamatláb emelkedéséhez vezet, miközben nem változik a reálkamatláb",
 	},
 	{

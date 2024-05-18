@@ -14,7 +14,7 @@ const fejezet5 = [
 	{
 		id: 3,
 		question: "A tényleges munkakinálatot az egyensúlyinál magasabb reálbér mellett",
-		options: ["a. az aktívak létszáma jelenti", "b. a foglalkoztatottak és a kényszer munkanélküliek együttes létszáma jelenti", "c. a foglalkotatottak és az önkéntes munkanélküliek együttes létszáma jelenti", "d. a foglalkoztatottak és az összes munkanélküli együttes létszáma jelenti"],
+		options: ["a. az aktívak létszáma jelenti", "b. a foglalkoztatottak és a kényszer munkanélküliek együttes létszáma jelenti", "c. a foglalkoztatottak és az önkéntes munkanélküliek együttes létszáma jelenti", "d. a foglalkoztatottak és az összes munkanélküli együttes létszáma jelenti"],
 		answer: "b. a foglalkoztatottak és a kényszer munkanélküliek együttes létszáma jelenti",
 	},
 	{

@@ -320,7 +320,7 @@ const qBank = [
 	{
 		id: 54,
 		question: "A tényleges munkakinálatot az egyensúlyinál magasabb reálbér mellett",
-		options: ["a. az aktívak létszáma jelenti", "b. a foglalkoztatottak és a kényszer munkanélküliek együttes létszáma jelenti", "c. a foglalkotatottak és az önkéntes munkanélküliek együttes létszáma jelenti", "d. a foglalkoztatottak és az összes munkanélküli együttes létszáma jelenti"],
+		options: ["a. az aktívak létszáma jelenti", "b. a foglalkoztatottak és a kényszer munkanélküliek együttes létszáma jelenti", "c. a foglalkoztatottak és az önkéntes munkanélküliek együttes létszáma jelenti", "d. a foglalkoztatottak és az összes munkanélküli együttes létszáma jelenti"],
 		answer: "b. a foglalkoztatottak és a kényszer munkanélküliek együttes létszáma jelenti",
 	},
 	{
@@ -392,7 +392,7 @@ const qBank = [
 	{
 		id: 66,
 		question: "A Fisher-hatás szerint az inflációs ráta emelkedése",
-		options: ["a. a nominális kamaláb csökkenéséhez és a reálkamatláb emelkedéséhez vezet", "b. a reál pénzmennyiség növekedését eredményezi", "c. a reálkamatláb csökkenésére vezet, miközben nem változik a nominális kamatláb", "d. a nominális kamatláb emelkedéséhez vezet, miközben nem változik a reálkamatláb"],
+		options: ["a. a nominális kamatláb csökkenéséhez és a reálkamatláb emelkedéséhez vezet", "b. a reál pénzmennyiség növekedését eredményezi", "c. a reálkamatláb csökkenésére vezet, miközben nem változik a nominális kamatláb", "d. a nominális kamatláb emelkedéséhez vezet, miközben nem változik a reálkamatláb"],
 		answer: "d. a nominális kamatláb emelkedéséhez vezet, miközben nem változik a reálkamatláb",
 	},
 	{
